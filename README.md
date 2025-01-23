@@ -14,7 +14,7 @@ Clone the repository:
 bash
 Copy
 Edit
-
+https://github.com/Praveenkr398/TexttoSpeechConverterProject
 Open the index.html file in your browser.
 Enter text, customize voice options, and click the "Speak" button to hear the output.
 Technologies Used
