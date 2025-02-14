@@ -1,4 +1,5 @@
 # TexttoSpeechConverterProject
+view live: https://praveenkr398.github.io/TexttoSpeechConverterProject/
 
 Text-to-Speech Project
 This project is a simple and interactive Text-to-Speech (TTS) application built using HTML, CSS, and JavaScript. It allows users to convert text input into speech with customizable options for voice, pitch, and rate.
